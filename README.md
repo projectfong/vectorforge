@@ -1,5 +1,5 @@
 # VectorForge: Space Biology Knowledge Engine (Quickstart)
-> Built for NASA Space Apps Challenge 2025 — Challenge 3: Summarize Space Biology Publications  
+> Built for NASA Space Apps Challenge 2025 — Challenge 3: Build a Space Biology Knowledge Engine  
 > Author: projectfong
 
 A minimal, auditable pipeline and dashboard to ingest NASA bioscience resources, summarize papers (prototype implementation), and enable hybrid search across full-text documents (pgvector) and summaries (Qdrant). Built for NASA Space Apps 2025 Challenge 3. Why it matters: helps scientists, mission planners, and managers explore decades of results quickly. 
